@@ -19,7 +19,7 @@ usr2 = User.create!(
 
 usr3 = User.create!(
     name: 'Daniel',
-    email: 'daniel.guzman.com',
+    email: 'daniel.guzman@gmail.com',
     password: '123456788'
 )
 usr4 = User.create!(
